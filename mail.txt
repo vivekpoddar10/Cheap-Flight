@@ -1,0 +1,3 @@
+Hi Vivek,
+
+A two way flight from [source] to [destination] is available at [price]. Hurry! Only [seats] left
